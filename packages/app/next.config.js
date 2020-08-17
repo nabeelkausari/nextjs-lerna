@@ -35,5 +35,6 @@ module.exports = {
     }
     // Important: return the modified config
     return config
-  }
+  },
+  distDir: 'build'
 }
